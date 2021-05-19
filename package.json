@@ -1,5 +1,5 @@
 {
-  "name": "@modn/scalablecss",
+  "name": "@modnxyz/scalablecss",
   "version": "0.1.0",
   "description": "PostCSS plugin to scale (up/down) css numerical values.",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "author": "Fares AlHarbi <fares@modn.xyz>",
   "license": "MIT",
-  "repository": "ModNxyz/ScalableCSS",
+  "repository": "git://github.com/ModNxyz/ScalableCSS",
   "bugs": {
     "url": "https://github.com/ModNxyz/ScalableCSS"
   },

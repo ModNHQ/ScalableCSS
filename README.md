@@ -3,6 +3,7 @@
 [PostCSS] plugin to scale (up/down) css numerical values.
 
 [PostCSS]: https://github.com/postcss/postcss
+[≡ Mod(N)]: https://modn.xyz
 
 # Example
 
@@ -22,7 +23,7 @@ Reduced by 50%:
 
 ## Installation
 ```
-npm i @modn/scalablecss
+npm i @modnxyz/scalablecss
 ```
 
 ## Usage
@@ -47,3 +48,7 @@ See [PostCSS] docs for examples related to your environment.
 - [ ] Refactoring.
 - [ ] Implement `cli` version.
 - [ ] Scale `functions` numerical values, e.g. scale down `translate(100px)` to `translate(50px)`.
+
+## Credit & License
+- **Author:** Fares AlHarbi, [≡ Mod(N)].
+- **License:** MIT license, 2021 ≡ Mod(N), all rights reserved.
