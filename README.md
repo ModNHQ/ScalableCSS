@@ -25,7 +25,7 @@ Reduced by 50%:
 ```
 npm i @modnxyz/scalablecss
 ```
-
+- The package is available on both NPM and Github registry.
 ## Usage
 `ScalableCSS` takes one argument, which is javascript object:
 ```js
