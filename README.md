@@ -5,7 +5,7 @@
 [PostCSS]: https://github.com/postcss/postcss
 [≡ Mod(N)]: https://modn.xyz
 
-# Example
+## Example
 
 #### Input:
 ```css
