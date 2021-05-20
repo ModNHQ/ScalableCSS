@@ -28,9 +28,6 @@
     "eslint-config-postcss": "^2.0.2",
     "jest": "^26.6.3"
   },
-  "scripts": {
-    "test": "jest && eslint *.js"
-  },
   "eslintConfig": {
     "extends": "eslint-config-postcss/es5",
     "env": {
