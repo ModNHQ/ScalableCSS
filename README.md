@@ -1,6 +1,6 @@
 # Scalable CSS
 
-[PostCSS] plugin to scale (up/down) css numerical values.
+[PostCSS] plugin to scale (up/down) CSS numerical values.
 
 [PostCSS]: https://github.com/postcss/postcss
 [≡ Mod(N)]: https://modn.xyz
