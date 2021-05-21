@@ -49,6 +49,7 @@ See [PostCSS] docs for examples related to your environment.
 - [ ] Implement `cli` version.
 - [ ] Scale `functions` numerical values, e.g. scale down `translate(100px)` to `translate(50px)`.
 
+*Feel free to pick one, and submit pull request!*
 ## Credit & License
 - **Author:** Fares AlHarbi, [≡ Mod(N)].
 - **License:** MIT license, 2021 ≡ Mod(N), all rights reserved.
