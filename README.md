@@ -22,7 +22,6 @@ Reduced by 50%:
 ```
 
 ## Installation
-[![Release](https://github.com/ModNxyz/ScalableCSS/actions/workflows/publish.yml/badge.svg)](https://github.com/ModNxyz/ScalableCSS/actions/workflows/publish.yml)
 ```
 npm i @modnxyz/scalablecss
 ```
